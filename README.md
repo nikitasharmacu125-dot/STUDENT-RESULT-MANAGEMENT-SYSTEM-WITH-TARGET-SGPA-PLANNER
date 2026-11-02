@@ -1,0 +1,2 @@
+# STUDENT-RESULT-MANAGEMENT-SYSTEM-WITH-TARGET-SGPA-PLANNER
+The unique contribution of this project is a Target SGPA Planner that works backwards from a desired SGPA: using the internal marks stored in a student record, a greedy minimum-effort algorithm computes the external marks required in every subject, declares whether the target is achievable and reports the maximum possible SGPA when it is not;
